@@ -22,7 +22,8 @@ p {
     font-weight: lighter;
 }
 
-section{
+body{
+    background-size:cover;
     background: hsl(219, 30%, 73%);
     width: 1440px;
     height: 100%;
